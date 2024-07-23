@@ -1,0 +1,26 @@
+Python 3.10.2 (tags/v3.10.2:a58ebcc, Jan 17 2022, 14:12:15) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+==== RESTART: Z:\4661499-558907f08b76453b78a9d4f90e852e3f46fbbcd9\Guess#.py ====
+May I ask you for your name?
+nani
+nani, we are going to play a game. I am thinking of a number between 1 and 200
+Go ahead. Guess!
+Guess: 31
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 55
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 77
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 99
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 100
+The guess of the number that you have entered is too low
+Try Again!
+Guess: 150
+Nope. The number I was thinking of was 136
+Do you want to play again?ssss
